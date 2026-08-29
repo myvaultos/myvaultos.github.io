@@ -1,0 +1,22 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 18 Aug 2026 11:25:57 +0000
+Label: MyOS Ubuntu
+Suite: stable
+MD5Sum:
+ 6b04cf169c46d6f16df1b3d8b85176b3              126 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ baa43cb93064e13b12b04571e82bd2e9               29 main/binary-amd64/Packages.gz
+SHA1:
+ fc975f251b72c57defaca927479a904db8ab75b8              126 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ aa9a43e6df1724b9842c9514a9152c477f19923f               29 main/binary-amd64/Packages.gz
+SHA256:
+ 8de7d342c15eb6086c7c21263c1a3c8890d8b6b1364eae1505e557a940a2a287              126 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 04fb8b69e6733c4bd39f117d764323f6b67687b502f092921e1c8573a66d53bb               29 main/binary-amd64/Packages.gz
+SHA512:
+ b1856ef63b361ea393b91a24f559239a32720dd3a5af3366adadd295b1d0a8191281abf56871a6ab77bad38ce02fd157a93e0d5963b96cb9f23869d8e2635f1e              126 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 4c066fe09cf01df371d6f9030d900527d2e53eb8ceeabdaaa0f48278bf7441fdd833e79df0b66eb480b445129acf731024315fb59c4fb0747883c3ce7b8f7f88               29 main/binary-amd64/Packages.gz
