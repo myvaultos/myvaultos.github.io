@@ -1,0 +1,16 @@
+Package: claude-sysinfo
+Version: 1.0.0
+Architecture: all
+Maintainer: Claude <claude@anthropic.com>
+Filename: pool/claude-sysinfo.deb
+Size: 2782
+MD5sum: a53dc3a6f68bb2730396e988fd3ea9ab
+SHA1: a66e53257c4435b3612d8b77be73cd5b88ee5c9c
+SHA256: cad19526035125460fabc34bc7ef554963ccc86a3e780dfacbe3a3e9ef2c24a3
+Section: utils
+Priority: optional
+Description: Claude rendszer kontextus gyűjtő
+ Automatikusan összegyűjti a rendszer állapotát (OS, csomagok,
+ hardware info) és Claude-nak optimalizált formátumban kiadja.
+ Használat: claude-sysinfo [--full] [--copy]
+
